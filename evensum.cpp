@@ -114,28 +114,7 @@ void input()
             cout<<ans;el;
         }
     }
-//    el;
-//    int cnt=0;
-//    for (int i=1;i<=n;i++){
-//        int sum=0;
-//        for (int j=i;j<=n;j++){
-//            sum+=a[j];
-//            if (sum%2==0) cnt++;
-//        }
-//    }
-//    cout<<cnt;
-//    it st1={0,0,0,0,0,0,0,0};
-//    it st2={0,0,1,1,1,0,0,1};
-//
-//    it st=mer(st1,st2);
-//    cout<<st.sl_0_l;el;
-//    cout<<st.sl_0_r;el;
-//    cout<<st.sum_odd_l;el;
-//    cout<<st.sum_odd_r;el;
-//    cout<<st.sum_even_l;el;
-//    cout<<st.sum_even_r;el;
-//    cout<<st.sl_odd;el;
-//    cout<<st.res;el;
+
 }
 
 int main()
